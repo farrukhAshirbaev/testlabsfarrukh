@@ -1,1 +1,4 @@
 СОздать ФАЙЛЫ С содержание и провести все через GIT
+git log 65ada59e3.65ada59e3 --oneline Stih.txt 
+git log 65ada59e3.. --oneline Stih.txt 
+result to search commit
