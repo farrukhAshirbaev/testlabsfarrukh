@@ -1,2 +1,2 @@
-<span>GIt</span>
+<em>GIt</em>
 
