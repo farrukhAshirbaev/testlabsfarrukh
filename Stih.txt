@@ -1,3 +1,4 @@
+nano push 
 dobacka
 This two Files
 
